@@ -23,3 +23,8 @@ ol{
 blockquote{
   font-style: italic;
 }
+
+.box{
+  border: 2px dashed lightpink;
+  background-color: lightyellow;
+}
