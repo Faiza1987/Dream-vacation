@@ -1,0 +1,9 @@
+body {
+  background-color: lightblue;
+}
+
+h1{
+  font-family: fantasy;
+  text-align: center;
+  text-shadow: 2px 2px #42adf4;
+}
