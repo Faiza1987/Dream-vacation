@@ -3,7 +3,23 @@ body {
 }
 
 h1{
-  font-family: fantasy;
+  font-family: cursive;
   text-align: center;
   text-shadow: 2px 2px #42adf4;
+}
+
+h2{
+  font-family: fantasy;
+  font-weight: bold;
+}
+
+ul{
+  font-size: 19px;
+}
+
+ol{
+  font-size: 19px;
+}
+blockquote{
+  font-style: italic;
 }
